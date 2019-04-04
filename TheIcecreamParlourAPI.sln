@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheIcecreamParlourAPI", "TheIcecreamParlourAPI\TheIcecreamParlourAPI.csproj", "{882CFEC4-DCC8-499D-A961-AE65BADF2211}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{10EA47A7-1E96-445E-9CD8-1A65AB944309}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{882CFEC4-DCC8-499D-A961-AE65BADF2211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882CFEC4-DCC8-499D-A961-AE65BADF2211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882CFEC4-DCC8-499D-A961-AE65BADF2211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882CFEC4-DCC8-499D-A961-AE65BADF2211}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F6DD2CB-CEE5-40B9-B989-02997A82020F}
+	EndGlobalSection
+EndGlobal
